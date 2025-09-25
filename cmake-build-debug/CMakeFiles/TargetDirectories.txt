@@ -1,0 +1,3 @@
+/Users/shaahidsaleem/Documents/ohlone college/Spring 2025/CS116-C++ class/lab/friendsWith/cmake-build-debug/CMakeFiles/friendsWith.dir
+/Users/shaahidsaleem/Documents/ohlone college/Spring 2025/CS116-C++ class/lab/friendsWith/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shaahidsaleem/Documents/ohlone college/Spring 2025/CS116-C++ class/lab/friendsWith/cmake-build-debug/CMakeFiles/rebuild_cache.dir
